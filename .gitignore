@@ -1,6 +1,7 @@
 # Quartus generated build products and local working data
 /quartus/output_files/
 /quartus/db/
+/quartus/qdb/
 /quartus/incremental_db/
 /quartus/dni/
 /quartus/*.qws
