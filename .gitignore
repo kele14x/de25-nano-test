@@ -1,0 +1,11 @@
+# Quartus generated build products and local working data
+/quartus/output_files/
+/quartus/db/
+/quartus/incremental_db/
+/quartus/dni/
+/quartus/*.qws
+
+# Common Quartus transient files
+*.bak
+*.log
+*.smsg
